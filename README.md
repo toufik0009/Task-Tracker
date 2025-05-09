@@ -1,4 +1,4 @@
-## Welcode to Task Tracker Application
+## Welcome to Task Tracker Application
 This is my Task Tracker Application. I made it using React.js, Node.js, Express.js and MongoDB. React.js for frontend development. i use Node.js,Express.js for backend development and database using MongoDB. Here the user can create a new projec tand generate a new task, and the task will be edit delete and update and different types of task under the project.
 
 # Technology
